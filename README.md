@@ -3,13 +3,13 @@ ML-based disease prediction project using Heart Disease, Diabetes, and Breast Ca
 
 > A machine learning project that predicts the likelihood of diseases using structured patient medical data. 
 
----
+
 
 ## 📌 Objective
 
 To predict the possibility of diseases based on patient data by applying multiple classification algorithms on real-world medical datasets from the UCI Machine Learning Repository.
 
----
+
 
 ## 📂 Datasets Used
 
@@ -18,7 +18,7 @@ To predict the possibility of diseases based on patient data by applying multipl
 | 🩸 Diabetes | Pima Indians (UCI) | 768 | 8 |
 | 🔬 Breast Cancer | UCI / Sklearn | 569 | 30 |
 
----
+
 
 ## 🤖 Algorithms Implemented
 
@@ -27,7 +27,7 @@ To predict the possibility of diseases based on patient data by applying multipl
 - ✅ Logistic Regression
 - ✅ XGBoost Classifier
 
----
+
 
 ## 📊 Visualizations
 
@@ -37,7 +37,7 @@ To predict the possibility of diseases based on patient data by applying multipl
 - Cross-dataset Accuracy Heatmap
 - Feature Importance plots (Random Forest)
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -101,8 +101,8 @@ disease-prediction/
 ---
 
 ## 🙋‍♀️ Author
-
-** Akila shree M ** — Machine Learning Intern @ CodeAlpha  
+Akila shree M
+      
 📎 [LinkedIn](https://linkedin.com) · 💻 [GitHub](https://github.com)
 
 ---
